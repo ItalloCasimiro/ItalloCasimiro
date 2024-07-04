@@ -19,6 +19,7 @@
 
 
 <a href="https://www.instagram.com/itallo_casimiro?igsh=MWxsbDlpNmlmdjJqNA=="><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/invite/ZBWjJ4gAFD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 ## Projetos:
 
