@@ -1,5 +1,5 @@
 ## Olá, sou Itallo Casimiro 👋
-<p>Olá, sou desenvolvedor web iniciante e estou cursando HTML5, CSS3, JavaScript e outras tecnologias.</p>
+<p>Olá, sou desenvolvedor de jogos e web iniciante e estou cursando HTML5, CSS3, C# e design de jogos, sonho em ser Game Designer.</p>
 
 <div>
   <a href="https://github.com/itallocasimiro">
