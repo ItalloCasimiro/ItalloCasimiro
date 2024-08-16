@@ -24,6 +24,5 @@
 ## Projetos:
 
 •<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a><br>
-•<a href="https://itallocasimiro.github.io/Cordel/">Cordel de Milton Duarte (modelo do Gustavo Guanabara)
 
 <p>Amante da programação, sempre procurando evoluir para alcançar objetivos precisos...</p>
