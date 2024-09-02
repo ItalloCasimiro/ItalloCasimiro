@@ -1,5 +1,5 @@
 ## Hi, I'm Itallo Casimiro 👋
-<p>Hi, I'm a game and web dev beginner and I'm studying backend development and game design, I dream of being a Game Designer and backend developer.</p>
+<p>Hi, I'm a game and web dev beginner, I'm studying backend development and game design, I dream of being a Game Designer and backend developer.</p>
 
 <div>
   <a href="https://github.com/itallocasimiro">
@@ -31,4 +31,4 @@
 
 •<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a><br>
 
-<p>Amante da programação, sempre procurando evoluir para alcançar objetivos precisos...</p>
+<p>Programming lover, always looking to evolve to achieve specific goals...</p>
