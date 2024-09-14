@@ -1,12 +1,12 @@
-## Hi, I'm Itallo Casimiro 👋
-<p>Hi, I'm a game and web dev beginner, I'm studying backend development and game design, I dream of being a Game Designer and backend developer.</p>
+## Olá, sou Itallo Casimiro 👋
+<p>Olá, Sou iniciante em desenvolvimento de jogos e web, estou estudando desenvolvimento backend e design de jogos, sonho em ser game designer e desenvolvedor backend.</p>
 
 <div>
   <a href="https://github.com/itallocasimiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallocasimiro&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## Technologies that I use in my daily life:
+## Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,17 +18,17 @@
 
 ##
 
-🌎 Languages I speak:
+🌎 Idiomas que eu falo:
 
-    Portuguese 🇧🇷(MAIN)
+    Português 🇧🇷(MAIN)
     English: intermediary
 
 ##
 <a href="https://www.instagram.com/itallo_casimiro?igsh=MWxsbDlpNmlmdjJqNA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/invite/ZBWjJ4gAFD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-## Projects:
+## Projetos:
 
 •<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a><br>
 
-<p>Programming lover, always looking to evolve to achieve specific goals...</p>
+<p>Amante da programação, sempre procurando evoluir para alcançar e criar objetivos</p>
