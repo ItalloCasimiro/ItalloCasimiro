@@ -32,3 +32,7 @@
 •<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a><br>
 
 <p>Amante da programação, sempre procurando evoluir para alcançar e criar objetivos</p>
+
+## Ebook Game Design⭐
+
+https://linktr.ee/ItalloCasimiro
