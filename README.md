@@ -1,5 +1,5 @@
 ## Olá, sou Itallo Casimiro 👋
-<p>Olá, Sou estudante em desenvolvimento de jogos, estou estudando desenvolvimento de jogos com C# na Unity e design de jogos, sonho em ser game designer criar meu game studio e produzir meu próprio jogo com uma equipe.</p>
+<p>Olá, Sou estudante em desenvolvimento de jogos, estou estudando desenvolvimento de jogos com C# na Unity e design de jogos, sonho em ser game designer, criar meu game studio e produzir meu próprio jogo com uma equipe.</p>
 
 ## Tecnologias que eu uso no meu dia a dia:
 
