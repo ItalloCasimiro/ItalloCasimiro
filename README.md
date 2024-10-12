@@ -19,7 +19,7 @@
 
 ## Projetos:
 
-•<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a><br>
+•<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a>(web)<br>
 
 <p>Amante da programação, sempre procurando evoluir para alcançar e criar objetivos</p>
 
