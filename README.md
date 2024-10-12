@@ -3,8 +3,8 @@
 
 ## Tecnologias que eu uso no meu dia a dia:
 
-<img align="center" alt="Csharp" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="left" alt="unity" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+<img align="center" alt="Csharp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="left" alt="unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 
 ##
 
