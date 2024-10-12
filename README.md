@@ -1,11 +1,6 @@
 ## Olá, sou Itallo Casimiro 👋
 <p>Olá, Sou estudante em desenvolvimento de jogos, estou estudando desenvolvimento de jogos com C# na Unity e design de jogos, sonho em ser game designer criar meu game studio e produzir meu próprio jogo com uma equipe.</p>
 
-<div>
-  <a href="https://github.com/itallocasimiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itallocasimiro&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 ## Tecnologias que eu uso no meu dia a dia:
 
 <img align="center" alt="Csharp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
