@@ -25,8 +25,8 @@
 
 •<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a>(web)<br>
 
-<p>Amante da programação, sempre procurando evoluir para alcançar e criar objetivos</p>
-
 ## Link Tree 🌳⭐
 
 https://linktr.ee/ItalloCasimiro
+
+<p>Amante da programação, sempre procurando evoluir para alcançar e criar objetivos</p>
