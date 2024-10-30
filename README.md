@@ -29,4 +29,4 @@
 
 ## Link Tree 🌳⭐
 
-https://linktr.ee/ItalloCasimiro
+https://beacons.ai/itallo_casimiro
