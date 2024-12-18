@@ -1,5 +1,7 @@
 ## Olá, sou Itallo Casimiro 👋
-<p>Olá, Sou estudante em desenvolvimento de jogos, estou estudando desenvolvimento de jogos com C# na Unity e design de jogos, sonho em ser game designer, criar meu game studio e produzir meu próprio jogo com uma equipe.</p>
+<p>Tenho 14 anos, sou estudante de Desenvolvimento de jogos e Game Design. Atualmente sonho em trabalhar como game designer, conseguir minha primeira experiência de trabalho e produzir jogos com uma equipe ⭐ 
+
+Estou idealizando e documentando meu primeiro projeto de jogo 2D individualmente, o Squirrel Bucket 🐿️🌰</p>
 
 ## Tecnologias que eu uso no meu dia a dia:
 
@@ -29,7 +31,7 @@
 
 ## Portifólio 👤
 
-<a href="https://itallocasimiro.github.io/Portifolio">Portifólio</a><br>
+<a href="https://itallocasimiro.github.io/Portifolio">Meu Portifólio</a><br>
 
 <p>Amante da programação, sempre procurando evoluir para alcançar e criar objetivos</p>
 
