@@ -25,6 +25,12 @@
 
 •<a href="https://itallocasimiro.github.io/Cuphead-wiki/index.html">Cuphead-Wiki</a>(web)<br>
 
+•<a href="https://itallocasimiro.github.io/Game-Design-eBook">eBook Game Design, o processo de criação de um jogo</a><br>
+
+## Portifólio 👤
+
+<a href="https://itallocasimiro.github.io/Portifolio">Portifólio</a><br>
+
 <p>Amante da programação, sempre procurando evoluir para alcançar e criar objetivos</p>
 
 ## Link Tree 🌳⭐
