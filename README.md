@@ -10,7 +10,7 @@ Estou idealizando e documentando meu primeiro projeto de jogo 2D individualmente
 <img align="left" alt="HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="left" alt="Notion" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
-<img align="left" alt="Figma" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"><br>
+<img align="left" alt="Figma" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"><br><br>
 
 
 
