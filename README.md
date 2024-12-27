@@ -1,5 +1,5 @@
 ## Olá, sou Itallo Casimiro 👋
-<p>Tenho 14 anos, sou estudante de Desenvolvimento de jogos e Game Design. Atualmente sonho em trabalhar como game designer, conseguir minha primeira experiência de trabalho e produzir jogos com uma equipe ⭐</p><br>
+<p>Tenho 14 anos, sou estudante de Desenvolvimento de jogos e Game Design. Atualmente sonho em trabalhar como game designer, conseguir minha primeira experiência de trabalho e produzir jogos com uma equipe ⭐</p>
 
 ##
 
