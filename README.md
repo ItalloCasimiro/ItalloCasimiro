@@ -24,6 +24,9 @@
 
 •<a href="https://itallocasimiro.github.io/Game-Design-eBook">eBook Game Design, o processo de criação de um jogo</a><br>
 
+•<a href="https://itallo-casimiro.itch.io/gaoxy">Gaoxy</a><br>
+
+
 ## Link Tree 🌳⭐
 
 https://beacons.ai/itallo_casimiro
