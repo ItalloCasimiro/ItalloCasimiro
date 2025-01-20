@@ -26,6 +26,9 @@
 
 •<a href="https://itallo-casimiro.itch.io/gaoxy">Gaoxy</a><br>
 
+## Registro Journey | Newsletter
+
+https://itallocasimiro.substack.com
 
 ## Link Tree 🌳⭐
 
