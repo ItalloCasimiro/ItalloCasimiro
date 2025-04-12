@@ -26,6 +26,10 @@
 
 •<a href="https://itallo-casimiro.itch.io/gaoxy">Gaoxy</a><br>
 
+•<a href="https://itallo-casimiro.itch.io/squirrel-bucket">Squirrel Bucket</a><br>
+
+•<a href="https://itallo-casimiro.itch.io/cube">C.U.B.E</a><br>
+
 ## Registro Journey | Newsletter
 
 https://itallocasimiro.substack.com
